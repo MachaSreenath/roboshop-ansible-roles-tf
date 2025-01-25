@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.forpractice.uno
+REDIS_HOST: redis-dev.forpractice.uno
+MYSQL_HOST: mysql-dev.forpractice.uno
+RABBITMQ_HOST: rabbitmq-dev.forpractice.uno
+CATALOGUE_HOST: catalogue-dev.forpractice.uno
+USER_HOST: user-dev.forpractice.uno
+CART_HOST: cart-dev.forpractice.uno
+SHIPPING_HOST: shipping-dev.forpractice.uno
+PAYMENT_HOST: payment-dev.forpractice.uno
+DISPATCH_HOST: dispatch-dev.forpractice.uno
